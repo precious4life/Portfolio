@@ -8,11 +8,14 @@ body{
     background-color: rgba(255, 255, 255, 0.726);
 }
 #site-name{
-    font-family:fantasy;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    
     color: black;
     text-align: center;
     padding-top: 10px;
     height: 40px;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .hero{
